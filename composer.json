@@ -1,0 +1,14 @@
+{
+    "name": "4xpro/homescr",
+    "description": "Script for smart configurable self-hoster startpage for browsers.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "XXXX Pro",
+            "email": "me@4xpro.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

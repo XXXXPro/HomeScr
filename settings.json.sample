@@ -1,0 +1,9 @@
+{
+  "title" : "Стартовая страница 4X_Pro",
+  "lang"  : "ru",
+  "template" : "default",
+  "blocks" : [
+    { "type" : "Hello", "params" : "Hello world to left", "area" : "left", "id" : "left_text" },
+    { "type" : "Hello", "params" : "Привет мир справа!", "area" : "right" } 
+  ]
+}
